@@ -119,8 +119,8 @@ This portfolio includes:
 
 ## 📬 Contact
 
-- LinkedIn: [Your LinkedIn Link]  
-- GitHub: [Your GitHub Profile]  
+- LinkedIn: [https://www.linkedin.com/in/abhishek-phatak192002/]  
+- GitHub: [https://github.com/Abhishekphatak19]  
 
 ---
 
