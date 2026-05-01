@@ -86,10 +86,10 @@ This portfolio includes:
 
 ## 📂 Project Repositories
 
-- 🔗 Data Cleaning & Preparation → [Link]
-- 🔗 EDA & SQL Analysis → [Link]
-- 🔗 Dashboard & RFM Analysis → [Link]
-- 🔗 Final Storytelling & Stats → [Link]
+- 🔗 Data Cleaning & Preparation 
+- 🔗 EDA & SQL Analysis
+- 🔗 Dashboard & RFM Analysis 
+- 🔗 Final Storytelling & Stats
 
 ---
 
